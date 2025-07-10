@@ -1,0 +1,14 @@
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\bin\Debug\net9.0\ExemploFundamentos.exe
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\bin\Debug\net9.0\ExemploFundamentos.deps.json
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\bin\Debug\net9.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\bin\Debug\net9.0\ExemploFundamentos.dll
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\bin\Debug\net9.0\ExemploFundamentos.pdb
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.dll
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\refint\ExemploFundamentos.dll
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.pdb
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ref\ExemploFundamentos.dll
