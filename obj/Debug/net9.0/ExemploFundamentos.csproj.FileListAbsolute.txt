@@ -12,3 +12,4 @@ C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Deb
 C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.pdb
 C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ref\ExemploFundamentos.dll
+C:\Users\wcfre\Desktop\End to End Engineering C#\Criando projeto vs code\obj\Debug\net9.0\ExemploFundamentos.sourcelink.json

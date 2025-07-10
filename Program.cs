@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using ExemploFundamentos.Models;
 
 namespace ExemploFundamentos
 {
@@ -16,7 +17,7 @@ namespace ExemploFundamentos
             Console.Write("Digite a idade do vendedor: ");
             vendedor.Idade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"O Vendedor {vendedor.Nome} foi cadastrado com sucesso!");
+            vendedor.Apresentar();
 
         }
     }
